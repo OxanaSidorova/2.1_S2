@@ -1,5 +1,7 @@
 
-## In this file you can read about the main difference of two commands
+## change from local 
+
+In this file you can read about the main difference of two commands
 This two commands synchronize changes in repositories.
 ### **Git pull**
 - pulls down from a remote and instantly merges
